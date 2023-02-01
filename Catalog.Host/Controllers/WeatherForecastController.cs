@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace Module5HW2.Controllers;
+namespace Catalog.Host.Controllers;
 
 [ApiController]
 [Route("[controller]")]

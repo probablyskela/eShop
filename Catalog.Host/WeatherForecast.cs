@@ -1,4 +1,4 @@
-namespace Module5HW2;
+namespace Catalog.Host;
 
 public class WeatherForecast
 {
